@@ -17,7 +17,7 @@ keyword:
 venue:
   group: "RADIUS EXTensions"
   type: "Working Group"
-  mail: radext@ietf.org
+  mail: "radext@ietf.org"
 
 author:
   - name: Jan-Frederik Rieckers
